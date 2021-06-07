@@ -9,6 +9,8 @@ python = "^3.8"
 SQLAlchemy = "^1.4.17"
 alembic = "^1.6.5"
 fastapi = {extras = ["all"], version = "^0.65.1"}
+psycopg2-binary = "^2.8.6"
+passlib = "^1.7.4"
 
 [tool.poetry.dev-dependencies]
 

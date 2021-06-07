@@ -17,6 +17,6 @@ Manage migrations
 # Makemigrations
 alembic revision --autogenerate -m "Name migrations"
 
-# Migratye
+# Migrate
 alembic upgrade head
 ```
